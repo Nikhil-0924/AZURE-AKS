@@ -28,3 +28,5 @@ kubectl get svc -n argocd
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d3b1fbd1-a68a-4961-9472-e91e2b71da52">
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a594bc6b-c6cf-4ca2-aac4-7e488fdb71f5">
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/810e72ec-8045-4b71-9c98-57b400b2aa95">
+
